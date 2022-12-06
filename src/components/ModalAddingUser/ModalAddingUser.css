@@ -1,0 +1,21 @@
+.container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    left: 0;
+    right: 0;
+    opacity: 0.8;
+  }
+  .modal {
+    background-color: aliceblue;
+    width: 400px;
+    margin-top: 5px;
+    height: max-content;
+  }
+  .modal_header {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+  }

@@ -1,0 +1,17 @@
+.list_container {
+    list-style: none;
+    padding: 2px;
+  }
+  .list_item {
+    display: flex;
+    justify-content: center;
+  }
+  .item_info {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .btn_delete {
+    height: 25px;
+  }

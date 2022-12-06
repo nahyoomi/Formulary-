@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    background: linear-gradient(90deg, #30eefc, #4ec3fb);
+    border-radius: 20px;
+  }
